@@ -1,34 +1,98 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center" id="top"> 
+  <img src="./cover.png" alt="Dashgo" />
 
-## Getting Started
+  &#xa0;
 
-First, run the development server:
+  <!-- <a href="https://dashgo.netlify.com">Demo</a> -->
+</div>
+
+<h1 align="center">Dashgo</h1>
+
+<p align="center">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/kacyos/dashgo?color=56BEB8">
+
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/kacyos/dashgo?color=56BEB8">
+
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/kacyos/dashgo?color=56BEB8">
+
+  <img alt="Licença" src="https://img.shields.io/github/license/kacyos/dashgo?color=56BEB8">
+
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/kacyos/dashgo?color=56BEB8" /> -->
+
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/kacyos/dashgo?color=56BEB8" /> -->
+
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/kacyos/dashgo?color=56BEB8" /> -->
+</p>
+
+<!-- Status -->
+
+<h4 align="center"> 
+	🚧  Dashgo 🚀 Em construção...  🚧
+</h4> 
+
+<hr>
+<!-- 
+<p align="center">
+  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
+  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
+  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
+  <a href="https://github.com/kacyos" target="_blank">Autor</a>
+</p>
+-->
+<br> 
+
+<!--
+
+## :dart: Sobre ##
+
+Sobre o seu projeto
+
+## :sparkles: Funcionalidades ##
+
+:heavy_check_mark: Funcionalidade 1;\
+:heavy_check_mark: Funcionalidade 2;\
+:heavy_check_mark: Funcionalidade 3;
+-->
+## :rocket: Tecnologias ##
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Next.JS](https://nextjs.org/)
+- [Chakra UI](https://chakra-ui.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+## :white_check_mark: Pré requisitos ##
+
+Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
+
+## :checkered_flag: Começando ##
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Clone este repositório
+$ git clone https://github.com/kacyos/dashgo
+
+# Entre na pasta
+$ cd dashgo
+
+# Instale as dependências
+$ yarn
+
+# Para iniciar o projeto
+$ yarn start
+
+# O app vai inicializar em <http://localhost:3000>
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## :memo: Licença ##
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Feito com :heart: por <a href="https://github.com/kacyos" target="_blank">Cacio de Castro</a>
 
-## Learn More
+&#xa0;
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<a href="#top">Voltar para o topo</a>
