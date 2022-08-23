@@ -5,10 +5,11 @@ import PaginationItem from "./PaginationItem";
 export default function Pagination() {
   return (
     <Stack
-      direction="row"
+      direction={["column", "row"]}
+      spacing="6"
       marginTop="8"
       justifyContent="space-between"
-      spacing="6"
+      align="center"
     >
       <Box>
         <Text as="span">1</Text> - <Text as="span">10</Text> de{" "}
